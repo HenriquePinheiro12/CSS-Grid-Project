@@ -3,8 +3,8 @@
 - Project Inspired by [Traversy Media project](https://codepen.io/bradtraversy/pen/gvMGyB?editors=1100)
 
 ## Screenshots
-![](images/desktop-print)
-![](images/mobile-print.)
+![](images/desktop-print.png)
+![](images/mobile-print.png)
 
 ## What I learned
 
