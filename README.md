@@ -1,6 +1,7 @@
 # Responsive CSS Grid Project 
 
 - Project Inspired by [Traversy Media project](https://codepen.io/bradtraversy/pen/gvMGyB?editors=1100)
+- [Live Site](https://henriquepinheiro12.github.io/CSS-Grid-Project/)
 
 ## Screenshots
 ![](images/desktop-print.png)
